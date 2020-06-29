@@ -1,0 +1,5 @@
+print('hello world')
+print('what is your name')
+myname = input()
+print('It is good to mmet you ' + myname)
+#print('hello ' + myname)
